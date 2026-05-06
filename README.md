@@ -1,6 +1,8 @@
 # Hi, I'm Bijan 👋  
 **Principal-level Software Engineer candidate** focused on reliable distributed systems, full-stack product delivery, and pragmatic technical leadership.
 
+- **Resume:** [📄 View PDF](./BijanPourazariResume.pdf)
+
 I build systems that are meant to survive real production behavior: retries, race conditions, partial failures, and evolving product requirements.
 
 ## What I optimize for
