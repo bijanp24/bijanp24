@@ -1,4 +1,24 @@
--grade distributed systems thinking and correctness under failure/retry scenarios.
+# Hi, I'm Bijan 👋  
+**Principal-level Software Engineer candidate** focused on reliable distributed systems, full-stack product delivery, and pragmatic technical leadership.
+
+I build systems that are meant to survive real production behavior: retries, race conditions, partial failures, and evolving product requirements.
+
+## What I optimize for
+- **Reliability by design** (idempotency, concurrency safety, durable messaging patterns)
+- **Architecture with business context** (clear boundaries, maintainability, delivery velocity)
+- **End-to-end ownership** (backend + frontend + platform + mobile where needed)
+- **Mentorship and execution** (raising engineering quality while shipping)
+
+## Featured Repositories
+
+### 1) [roguenet-live-services](https://github.com/bijanp24/roguenet-live-services)
+A .NET 10 always-online game services portfolio demonstrating:
+- idempotent rewards processing
+- append-only inventory ledger design
+- optimistic concurrency control
+- outbox pattern for reliable event publication
+
+**Why it matters:** showcases production-grade distributed systems thinking and correctness under failure/retry scenarios.
 
 ---
 
