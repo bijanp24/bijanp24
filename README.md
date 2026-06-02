@@ -2,7 +2,19 @@
 **Principal-level Software Engineer candidate** focused on reliable distributed systems, full-stack product delivery, and pragmatic technical leadership.
 
 - **Resume:** [📄 View PDF](./BijanPourazariResume.pdf)
-- **Gaming Spp Suite:** [📄 View](./Idyllic_Gaming_App_Suite.md)
+- **Gaming App Suite:** [📄 View](./Idyllic_Gaming_App_Suite.md)
+
+## Bachelor's Degree Capstone Writings
+
+Academic papers written as part of my Bachelor's Degree in Computer Science — demonstrating long-term interest in the industry, professional development, and technology's societal impact.
+
+### [Industry Analysis](./industryanalysisfinaldraft.docx.pdf)
+A comprehensive analysis of the Computer Software Industry: roles (Software Engineer, Software Architect, CTO), major players (Microsoft, Google, etc.), emerging trends in AI/mobile/cybersecurity, and pathways into the field.
+
+### [Impact of Automation on the Economy](./ethicsargumentpaperfinal.pdf)
+An ethics argument paper examining how automation and artificial intelligence reshape labor markets — analyzing stakeholder perspectives (government, business, workers) and arguing for embracing automation alongside government investment in workforce retraining.
+
+---
 
 I build systems that are meant to survive real production behavior: retries, race conditions, partial failures, and evolving product requirements.
 
