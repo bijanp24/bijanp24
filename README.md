@@ -26,7 +26,18 @@ I build systems that are meant to survive real production behavior: retries, rac
 
 ## Featured Repositories
 
-### 1) [roguenet-live-services](https://github.com/bijanp24/roguenet-live-services)
+### 1) [agronomy-studio](https://github.com/bijanp24/agronomy-studio)
+Precision agriculture dashboard built with Blazor WebAssembly and TypeScript microservices.
+- Field intelligence, yield prediction, nutrient management, and GIS mapping
+- California-specific irrigation model integrating CIMIS, NRCS SSURGO, WUCOLS, and Open-Meteo
+- Natural-language query interface with AI provider routing (OpenAI/Gemini)
+- Netlify Functions microservices architecture (one domain module per service)
+
+**Why it matters:** Shows ability to integrate multiple real-world government/scientific APIs into a cohesive domain-driven product, combining GIS, weather entropy analysis, and NLU into a single actionable UI.
+
+---
+
+### 2) [roguenet-live-services](https://github.com/bijanp24/roguenet-live-services)
 A .NET 10 always-online game services portfolio demonstrating:
 - idempotent rewards processing
 - append-only inventory ledger design
@@ -37,17 +48,18 @@ A .NET 10 always-online game services portfolio demonstrating:
 
 ---
 
-### 2) [mvp-finance](https://github.com/bijanp24/mvp-finance)
-Full-stack finance MVP built with C# and TypeScript.
-- backend domain modeling + API design
-- frontend integration and UX workflows
-- pragmatic architecture decisions for iterative delivery
+### 3) [mvp-finance](https://github.com/bijanp24/mvp-finance)
+Local-first personal finance dashboard with a .NET 10 engine and Angular 21 UI.
+- Event-sourced ledger for cash, debt, and investment accounts
+- Spendable-now calculations, burn rate, and debt-payoff projections
+- .NET Minimal API + EF Core + SQLite backend; Angular standalone components + signals frontend
+- Multi-agent development pipeline with structured handoff documentation
 
-**Why it matters:** demonstrates principal-level balance between technical depth and product execution.
+**Why it matters:** Demonstrates end-to-end product delivery — domain modeling, event sourcing, real-time financial calculations, and a modern SPA — with a pragmatic multi-tool engineering workflow.
 
 ---
 
-### 3) [GreeksVisualizer](https://github.com/bijanp24/GreeksVisualizer)
+### 4) [GreeksVisualizer](https://github.com/bijanp24/GreeksVisualizer)
 Options risk metrics visualization platform (C# + TypeScript).
 - quantitative data modeling
 - API/UI integration
@@ -57,7 +69,7 @@ Options risk metrics visualization platform (C# + TypeScript).
 
 ---
 
-### 4) [kotor-mod-project](https://github.com/bijanp24/kotor-mod-project)
+### 5) [kotor-mod-project](https://github.com/bijanp24/kotor-mod-project)
 KOTOR modding framework with engine/content separation and swappable replacement IP layer.
 - strict modular boundaries
 - extensibility-focused architecture
@@ -67,7 +79,7 @@ KOTOR modding framework with engine/content separation and swappable replacement
 
 ---
 
-### 5) [provenza-floors-ios](https://github.com/bijanp24/provenza-floors-ios)
+### 6) [provenza-floors-ios](https://github.com/bijanp24/provenza-floors-ios)
 Swift iOS application demonstrating:
 - mobile architecture and implementation discipline
 - production-oriented client experience
@@ -75,25 +87,17 @@ Swift iOS application demonstrating:
 
 **Why it matters:** adds cross-platform breadth and leadership versatility.
 
----
-
-### 6) [match-app](https://github.com/bijanp24/match-app)
-Match app proof-of-concept (C# + TypeScript).
-- rapid prototyping with solid architecture defaults
-- service and frontend integration
-- foundation for iterative experimentation
-
-**Why it matters:** demonstrates fast execution without sacrificing engineering fundamentals.
-
 ## Technical Stack
-- **Backend:** C#, .NET
-- **Frontend:** TypeScript, JavaScript, HTML/CSS/SCSS
+- **Backend:** C#, .NET 10, .NET 8, TypeScript (Netlify Functions)
+- **Frontend:** Angular, Blazor WebAssembly, TypeScript, JavaScript, HTML/CSS/SCSS
 - **Mobile:** Swift (iOS)
-- **Architecture Patterns:** idempotency, optimistic concurrency, append-only ledgers, outbox/event-driven integration
+- **Data/APIs:** Event sourcing, CIMIS, NRCS SSURGO, Open-Meteo, Google Maps Platform
+- **Architecture Patterns:** Idempotency, optimistic concurrency, append-only ledgers, outbox/event-driven integration, microservices, multi-agent development pipelines
 
 ## Current Focus
 - Advancing from senior/principal-capable execution to a formal **Principal Software Engineer** role
 - Building portfolio artifacts that demonstrate reliability, architecture ownership, and measurable product impact
+- Integrating real-world domain APIs (finance, agriculture) into production-ready full-stack applications
 
 ## Contact
 - GitHub: [@bijanp24](https://github.com/bijanp24)
