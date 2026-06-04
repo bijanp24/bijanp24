@@ -87,6 +87,16 @@ Swift iOS application demonstrating:
 
 **Why it matters:** adds cross-platform breadth and leadership versatility.
 
+---
+
+### 7) [LLM-Workflow-Academy](https://github.com/bijanp24/LLM-Workflow-Academy)
+Static Angular learning platform for practical LLM continuing education.
+- Multi-course catalog covering executor-agnostic workflows and probabilistic LLM verification
+- Markdown lesson + quiz delivery with local progress tracking and zero backend dependency
+- Content architecture combining a versioned submodule with repo-authored local course content
+
+**Why it matters:** shows product thinking around AI education, maintainable content systems, and static delivery architecture for real-world learning experiences.
+
 ## Technical Stack
 - **Backend:** C#, .NET 10, .NET 8, TypeScript (Netlify Functions)
 - **Frontend:** Angular, Blazor WebAssembly, TypeScript, JavaScript, HTML/CSS/SCSS
